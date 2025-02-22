@@ -1,2 +1,7 @@
-# win7-on-11
-Has Many Tools To Replicate The Windows 7 Experience on Windows 11 (THE WORST WINDOWS EVER EVEN VISTA IS BETTER)
+# Windows 7 Themes (And The Games!) on Windows 11
+
+## Preperations
+Creaate a restor point by pressing the windows key and typing in create a restore point. this is required due to the tool patching The ExplorerShell.
+
+## Step 1
+install StartAllBack From its [website](https://www.startallback.com/)
